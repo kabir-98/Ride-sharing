@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "pickFrom": "Mirpur",
+    "pickTo": "Dhanmondi",
+    "sit": 4,
+    "cost": 100,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  },
+  {
+    "id": 2,
+    "pickFrom": "Mirpur",
+    "pickTo": "Basundhora",
+    "sit": 4,
+    "cost": 110,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  },
+  {
+    "id": 3,
+    "pickFrom": "Basundhora",
+    "pickTo": "Dhanmondi",
+    "sit": 4,
+    "cost": 120,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  },
+  {
+    "id": 4,
+    "pickFrom": "Basundhora",
+    "pickTo": "Mirpur",
+    "sit": 4,
+    "cost": 130,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  },
+  {
+    "id": 5,
+    "pickFrom": "Dhanmondi",
+    "pickTo": "Mirpur",
+    "sit": 4,
+    "cost": 140,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  },
+  {
+    "id": 6,
+    "pickFrom": "Dhanmondi",
+    "pickTo": "Basundhora",
+    "sit": 4,
+    "cost": 150,
+    "bikeImage": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg",
+    "carImage": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg",
+    "busImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg",
+    "trainImage": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+  }
+]

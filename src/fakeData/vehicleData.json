@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Bike",
+        "img": "https://png.pngtree.com/png-clipart/20190921/original/pngtree-cartoon-motorcycle-png-image_4724516.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Car",
+        "img": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-cartoon-car-transportation-blue-car-hand-drawn-car-png-image_3999875.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bus",
+        "img": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-cartoon-bus-png-image_2598560.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Train",
+        "img": "https://png.pngtree.com/png-clipart/20190611/original/pngtree-hand-painted-with-cartoon-train-png-image_2600888.jpg"
+    }
+]
